@@ -1,3 +1,6 @@
 # What is Intranet?
 
-An intranet is a private network within a company or enterprise. It allows communication between the employees, teams and departments and users can also share files securely between eachother. Only authorized users within the company can have access to said network
+## Basic definition
+An intranet is a private website that only the people in a company or organization can use. It allows employees to share information and communicate without the public being able to access it.
+
+## 
